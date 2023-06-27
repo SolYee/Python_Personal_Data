@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time:2023/6/8 18:01
-# @Author:YiShouquan
+# @Author:Szeto YiZe
 # @File:python_DQN.py
 # @Update:
 """
@@ -114,3 +114,5 @@ class DQNSortAlgorithm:
         dqn.train_model()
         # 降低探索率
         dqn.decay_epsilon()
+
+

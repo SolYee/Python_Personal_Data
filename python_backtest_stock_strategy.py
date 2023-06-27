@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time:2023/6/16 17:47
-# @Author:YiShouquan
+# @Author:Szeto YiZe
 # @File:python_backtest_stock_strategy.py
 # @Update:
 """

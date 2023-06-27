@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time:2023/6/26 14:03
-# @Author:YiShouquan
+# @Author:Szeto YiZe
 # @File:Python_try_except.py
 # @Update: Python 异常处理
 """
